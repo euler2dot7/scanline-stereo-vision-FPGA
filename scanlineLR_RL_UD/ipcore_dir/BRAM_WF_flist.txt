@@ -1,0 +1,23 @@
+# Output products list for <BRAM_WF>
+BRAM_WF.asy
+BRAM_WF.gise
+BRAM_WF.ngc
+BRAM_WF.vhd
+BRAM_WF.vho
+BRAM_WF.xco
+BRAM_WF.xise
+BRAM_WF_flist.txt
+BRAM_WF_ste\example_design\BRAM_WF_top.ucf
+BRAM_WF_ste\example_design\BRAM_WF_top.vhd
+BRAM_WF_ste\example_design\BRAM_WF_top.xdc
+BRAM_WF_ste\example_design\bmg_wrapper.vhd
+BRAM_WF_ste\implement\implement.sh
+BRAM_WF_ste\implement\planAhead_rdn.bat
+BRAM_WF_ste\implement\planAhead_rdn.sh
+BRAM_WF_ste\implement\planAhead_rdn.tcl
+BRAM_WF_ste\implement\xst.prj
+BRAM_WF_ste\implement\xst.scr
+BRAM_WF_xmdf.tcl
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+summary.log

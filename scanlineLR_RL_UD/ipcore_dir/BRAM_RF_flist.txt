@@ -1,0 +1,24 @@
+# Output products list for <BRAM_RF>
+BRAM_RF.asy
+BRAM_RF.gise
+BRAM_RF.ngc
+BRAM_RF.vhd
+BRAM_RF.vho
+BRAM_RF.xco
+BRAM_RF.xise
+BRAM_RF_flist.txt
+BRAM_RF_ste\example_design\BRAM_RF_top.ucf
+BRAM_RF_ste\example_design\BRAM_RF_top.vhd
+BRAM_RF_ste\example_design\BRAM_RF_top.xdc
+BRAM_RF_ste\example_design\bmg_wrapper.vhd
+BRAM_RF_ste\implement\implement.sh
+BRAM_RF_ste\implement\planAhead_rdn.bat
+BRAM_RF_ste\implement\planAhead_rdn.sh
+BRAM_RF_ste\implement\planAhead_rdn.tcl
+BRAM_RF_ste\implement\xst.prj
+BRAM_RF_ste\implement\xst.scr
+BRAM_RF_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+summary.log

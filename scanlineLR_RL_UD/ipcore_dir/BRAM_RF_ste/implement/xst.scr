@@ -1,0 +1,13 @@
+run
+-ifmt VHDL
+-ent BRAM_RF_top
+-p xc6slx45-fgg484-3
+-ifn xst.prj
+-write_timing_constraints No
+-iobuf YES
+-max_fanout 100
+-ofn BRAM_RF_top 
+-ofmt NGC
+-bus_delimiter ()
+-hierarchy_separator /
+-case Maintain
